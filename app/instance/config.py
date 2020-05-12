@@ -1,1 +1,2 @@
-MOVIE_API_KEY = '<Your Api Key>'
+MOVIE_API_KEY='fc92cb3801030b060b6631793d37a777'
+SECRET_KEY = 'kilitasha'
